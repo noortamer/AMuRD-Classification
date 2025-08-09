@@ -1,5 +1,8 @@
 pandas
+numpy
+tqdm
 scikit-learn
+torch
 transformers
 sentence-transformers
-tqdm
+accelerate
