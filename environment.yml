@@ -1,0 +1,20 @@
+name: product-category-prediction
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  # Core Python
+  - python=3.10
+
+  # Data handling
+  - pandas
+  - numpy
+  - tqdm
+
+  # Machine Learning & NLP
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - torchaudio
+  - transformers
+  - sentence-transformers
