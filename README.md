@@ -2,7 +2,7 @@
 
 ## Overview
 This project predicts product categories based on their names using semantic embeddings and cosine similarity.  
-It leverages the `intfloat/multilingual-e5-base` model to produce multilingual sentence embeddings for accurate category matching across diverse product datasets.
+It leverages the `intfloat/multilingual-e5-base` model to produce multilingual sentence embeddings for accurate category matching.
 
 The pipeline:
 1. Cleans and preprocesses the dataset.
